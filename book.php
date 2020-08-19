@@ -123,7 +123,7 @@ require_once 'bookProcess.php';
 
 			echo "</div>";
 		}
-		echo "<br>";
+		echo "<br><br>";
 		$stmt1 = $conn->prepare("SELECT * FROM book ");
 		$stmt1->execute();
 		$count=$stmt1->rowCount();
