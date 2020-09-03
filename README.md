@@ -4,13 +4,13 @@ Book Store in PHP
 
 1. Make a form to create a book with following attributes
 
-  a. Name
+a. Name
 
-  b. Publisher
+b. Publisher
 
-  c. ISBN
+c. ISBN
 
-  d. Cover image
+d. Cover image
 
 2. Show list of all books with 10 records per page.
 
